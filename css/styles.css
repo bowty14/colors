@@ -1,9 +1,18 @@
-.btn-success {
+#green {
   background-color: #79fc8b;
 }
-.btn-warning {
+#pink {
   background-color: #f7b5f4;
 }
-.btn-danger {
+#blue {
+  background-color: #abd6ff;
+}
+.green-background {
+  background-color: #79fc8b;
+}
+.pink-background {
+  background-color: #ffe3fc;
+}
+.blue-background {
   background-color: #abd6ff;
 }
