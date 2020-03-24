@@ -1,18 +1,11 @@
-#green {
-  background-color: #79fc8b;
-}
-#pink {
-  background-color: #f7b5f4;
-}
-#blue {
-  background-color: #abd6ff;
-}
 .green-background {
-  background-color: #79fc8b;
+  background-color: green;
 }
-.pink-background {
-  background-color: #ffe3fc;
+
+.yellow-background {
+  background-color: yellow;
 }
-.blue-background {
-  background-color: #abd6ff;
+
+.red-background {
+  background-color: red;
 }
